@@ -53,7 +53,7 @@ Me gusta trabajar de manera colaborativa, siempre buscando la forma más eficien
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ALexpra2&theme=tokyonight&hide_border=true&width=80%" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=ALexpra2&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="80%" />
 </p>
 
 ---
