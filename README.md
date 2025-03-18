@@ -52,8 +52,8 @@ Me gusta trabajar de manera colaborativa, siempre buscando la forma más eficien
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ALexpra2&show_icons=true&theme=tokyonight&hide_title=true&count_private=true&hide=prs&width=350" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALexpra2&layout=compact&theme=tokyonight&width=350" alt="Lenguajes de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ALexpra2&show_icons=true&theme=cobalt2&hide_title=true&count_private=true&hide=prs&width=350" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALexpra2&layout=compact&theme=cobalt2&width=350" alt="Lenguajes de GitHub" />
 </p>
 
 ---
@@ -61,8 +61,6 @@ Me gusta trabajar de manera colaborativa, siempre buscando la forma más eficien
 ### 📈 Gráfica de conocimientos  
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ALexpra2&theme=tokyonight" alt="Gráfica de habilidades" width="80%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ALexpra2&theme=cobalt2" alt="Gráfica de habilidades" width="80%" />
 </p>
-
----
 
