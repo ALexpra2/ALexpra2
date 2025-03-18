@@ -52,10 +52,6 @@ Me gusta trabajar de manera colaborativa, siempre buscando la forma más eficien
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALexpra2&layout=compact&theme=tokyonight&width=350" alt="Lenguajes de GitHub" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ALexpra2&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="80%" />
-</p>
-
 ---
 
 ### 📈 Gráfica de conocimientos  
