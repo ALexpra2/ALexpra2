@@ -46,6 +46,8 @@ Me gusta trabajar de manera colaborativa, siempre buscando la forma más eficien
 - 🌦️ **Dashboard en JavaScript con clima, reloj, generador de contraseñas y contenedor de links**.
 - 🔐 **Implementación de autenticación con Auth0 y JWT en Node.js**.
 
+<br>
+
 ---
 ### 📊 Estadísticas de GitHub
 
