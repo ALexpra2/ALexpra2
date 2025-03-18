@@ -43,6 +43,8 @@ Me gusta trabajar de manera colaborativa, siempre buscando la forma más eficien
 ### 📌 Proyectos recientes  
 
 - 🛒 **Gestión de productos con autenticación Firebase y MongoDB**
+- 🌦️ **Dashboard en JavaScript con clima, reloj, generador de contraseñas y contenedor de links**.
+- 🔐 **Implementación de autenticación con Auth0 y JWT en Node.js**.
 
 ---
 ### 📊 Estadísticas de GitHub
