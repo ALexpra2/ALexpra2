@@ -45,16 +45,15 @@ Me gusta trabajar de manera colaborativa, siempre buscando la forma más eficien
 - 🛒 **Gestión de productos con autenticación Firebase y MongoDB**
 
 ---
-
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ALexpra2&show_icons=true&theme=tokyonight&hide_title=true&count_private=true" alt="Estadísticas de GitHub" width="40%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALexpra2&layout=compact&theme=tokyonight" alt="Lenguajes de GitHub" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ALexpra2&show_icons=true&theme=tokyonight&hide_title=true&count_private=true&hide=prs&width=350" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALexpra2&layout=compact&theme=tokyonight&width=350" alt="Lenguajes de GitHub" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ALexpra2&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="80%" />
+  <img src="https://streak-stats.demolab.com?user=ALexpra2&theme=tokyonight&hide_border=true&width=80%" alt="GitHub Streak" />
 </p>
 
 ---
