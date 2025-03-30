@@ -1,16 +1,18 @@
-## 💻 ¡Hola, soy Alex!  
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/99e57fb1-cf3c-49f1-93f3-2628fe73c28a" alt="Desarrollo web" height="300"/>
+</p>
+
+<br>  
 
 Soy un apasionado del desarrollo web, actualmente estoy desarrollando habilidades y conocimientos a través de un bootcamp Full Stack Developer en The Bridge Digital Talent Accelerator.
 
 Me gusta trabajar de manera colaborativa, siempre buscando la forma más eficiente de hacer las cosas. Mi objetivo es seguir creciendo como programador y colaborar en proyectos que mejoren procesos y soluciones tecnológicas.
-
+<br>
+<br>
 ### 🔗 Conéctate conmigo:
 
 <p align="center">
-  <a href="https://github.com/ALexpra2">
-    <img src="https://img.shields.io/badge/GitHub-%23000000.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://www.linkedin.com/in/alejandro-prados-haro-6a87578a">
+    <a href="https://www.linkedin.com/in/alejandro-prados-haro-6a87578a">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://ALexpra2.github.io/portfolio/">
@@ -20,6 +22,7 @@ Me gusta trabajar de manera colaborativa, siempre buscando la forma más eficien
     <img src="https://img.shields.io/badge/alexpra2@gmail.com-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
+
 
 
 ### 🔧 Tecnologías y herramientas  
