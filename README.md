@@ -16,7 +16,7 @@ Me gusta trabajar de manera colaborativa, siempre buscando la forma más eficien
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://alexprados.es/">
-    <img src="https://img.shields.io/badge/Portafolio-%23ff7f50.svg?style=for-the-badge" alt="Portafolio">
+    <img src="https://img.shields.io/badge/Portfolio-%23ff7f50.svg?style=for-the-badge" alt="Portafolio">
   </a>
   <a href="mailto:alexpra2@gmail.com">
     <img src="https://img.shields.io/badge/alexpra2@gmail.com-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
