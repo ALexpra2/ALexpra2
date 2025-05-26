@@ -15,7 +15,7 @@ Me gusta trabajar de manera colaborativa, siempre buscando la forma más eficien
     <a href="https://www.linkedin.com/in/alejandro-prados-haro-6a87578a">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="[https://ALexpra2.github.io/portfolio/](https://alexprados.es/)">
+  <a href="https://alexprados.es/">
     <img src="https://img.shields.io/badge/Portafolio-%23ff7f50.svg?style=for-the-badge" alt="Portafolio">
   </a>
   <a href="mailto:alexpra2@gmail.com">
